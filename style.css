@@ -205,3 +205,38 @@
     width: 20px;
     padding:1px;
 }
+/* early -access section*/
+#early-assess-section{
+    max-width: 1310px;
+    
+    align-items: center;
+   
+
+}
+.early-access-container{
+    padding-top: 22px;
+    text-align: center;
+     background-color: #ccc2c2;
+     margin-bottom: 80px;
+     padding:80px 40px;
+     border: 12px;
+
+}
+.early-access-heading .head-p{
+    color: #bcbcbd;
+    margin-top: 10px;
+}
+.btn-5{font-size:16px ;
+    font-weight:600;
+    text-align: left;
+    
+    padding : 15px 20px;
+    background-color: #30B868;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.early-access-heading h6{
+    margin-top: 10px;
+    color: #03030350;
+
+}
