@@ -163,4 +163,45 @@
     background-color: #afaaaa;
     box-shadow: 1px;
 }
-/* */
+/* second brain section */
+
+#second-brain-section{
+    max-width: 1310px;
+    padding: 120px;
+    display: flex;
+    gap:60px;
+    justify-content: center;
+}
+.brain-section-container{
+    display: flex;
+    gap:10px;
+    margin-bottom: 36px;
+    padding: 20px;
+
+    justify-content: center;
+    align-items: center;
+    
+}
+.brain-section-img{
+    width: 600px;
+    border-radius: 2px;
+
+}
+.brain-section-para h1 {
+    margin-bottom: 36px;
+    padding top: 10px;
+
+}
+.brain-section-para h5{
+    color:#57ee96c2;
+    padding-top:10px;
+}
+.brain-list ul{
+    padding-top: 20px;
+    list-style: none;
+    text-decoration:inline;
+}
+.brain-list  img{
+    width: 20px;
+    padding:1px;
+}
