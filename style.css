@@ -89,7 +89,7 @@
 .hero-header-section .header-color{
     color:#30B868
 }
-p {
+.hero-paragrap p {
     color:rgba(255, 255, 255, 0.658);
     font-size: 18px;
     font-weight: 500;
@@ -117,5 +117,50 @@ p {
     gap:8px;
     padding-top: 20px;
 }
+ /* notes-box */
+ #notes-section {
+    padding-top: 22px;
+    text-align: center;
+ }
+ .notes-container h2{
+   /*font-size: 30px;
+   margin-bottom: 15px;*/
+ }
+ #notes-section .notes-container h2{
+    font-size: 48px;
+    font-weight: 600 bold;
+    justify-content: center;
+    text-align: center;
+ }
+ #notes-section .notes-container p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 46px;
+    color:#29323a;
+ }
+ .notes-box-container{
+    display: flex;
+    gap:24px;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 24px;
+ }
+ .notes-box-container img
+ {
+    background:rgba(249, 85, 85, 1) ;
+    border-radius: 24px;
+ }
+ .notes-box .box-para{
+    color: #000000;
+ }
+.notes-box{
+    width:322px;
+    padding: 24px;
+    border: 8px solid #f7f7f7;
     
-
+    text-align: center;
+    background-color: #afaaaa;
+    box-shadow: 1px;
+}
+/* */
